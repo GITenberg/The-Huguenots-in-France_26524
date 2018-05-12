@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/224
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Smiles
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26524#The-Huguenots-in-France
 gutenberg_issued: '2008-09-04'
 gutenberg_type: Text
 identifiers:
